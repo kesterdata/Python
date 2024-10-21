@@ -59,6 +59,36 @@ for x in range(6):
 
 
 """
-#
-for n in range(3,51):
-    print(n)
+"""
+for n in range(20):
+    print("kester")
+    """
+"""
+li=["kester","AY","kaybee","Samuel","Mac"]
+for i in range(len(li)):
+    print(li[i])
+    """
+
+"""
+1. Use a for loop to print the individual element in each list 
+2. usse a for loop and print the name 'Samual' 15 times
+3. use a for loop and print statement 20 times
+
+
+"""
+
+students = ["kester","AY","kaybee","Samuel","Mac"]
+scores = [98,92,90,89,50]
+statment = "I am running"
+
+
+for n in range(len(students)):
+    print(students[n])
+for i in range(len(scores)):
+    print(scores[n])
+
+for y in range(15):
+    print(students[3])
+
+for y in range(20):
+    print(statment)

@@ -8,6 +8,6 @@ Tuples are written with round brackets."""
 
 #Create a Tuple:
 
-		thistuple = ("apple", "banana", "cherry")
+thistuple = ("apple", "banana", "cherry")
 
-		print(thistuple)
+print(thistuple)
